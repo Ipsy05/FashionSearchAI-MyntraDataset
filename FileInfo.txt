@@ -3,4 +3,4 @@ This Zip file contains:
 2.CodeFile : Fashion_Search_AI__Ipsita_Pal.ipynb ::Original Code File
 3.CSV dataFile: Fashion Dataset v2.csv :: Updated dataset
 4.PDF file: FashionSearch_AI_Ipsita_Pal.pdf :: consisting of documentation
-5.ImagesFolder: Please Refer to the original set available at the module kaggle link
+5.ImagesFolder: Please Refer to the original set available at the module kaggle link [https://www.kaggle.com/datasets/djagatiya/myntra-fashion-product-dataset]
