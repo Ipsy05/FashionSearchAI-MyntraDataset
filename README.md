@@ -1,7 +1,7 @@
 # Fashion Search AI using Myntra Dataset
 
 **Project Description:**  
-This project is based on an Upgrad assignment on Semantic search, comprising three layers. It utilizes the Myntra dataset obtained from Kaggle, which was modified for the project. For more detailed information, refer to the Project Report: "Fashion Search AI."
+This project is based on an upGrad assignment on Semantic search, comprising three layers. It utilizes the Myntra dataset obtained from Kaggle, which was modified for the project. For more detailed information, refer to the Project Report: "Fashion Search AI."
 link: https://www.kaggle.com/datasets/djagatiya/myntra-fashion-product-dataset
 ## Objectives:
 The main objective of this project is to develop a fashion query response system that utilizes AI models to provide detailed and user-friendly responses to fashion-related queries. The system aims to enhance user experience by generating informative and contextually relevant answers, thereby assisting users in finding fashion items based on their preferences.
@@ -51,5 +51,5 @@ Several challenges were encountered during the implementation process, including
 Upon comparison of the search query outcomes from both the search and generation layers, it becomes apparent that the generation layer produces more detailed and comprehensible results. While the search layer efficiently retrieves relevant information, the generation layer significantly enhances output quality and readability, making it a preferred choice for tasks requiring detailed and user-friendly responses.
 
 ## Acknowledgment:
-Thank you Upgrad for the Modules, which helped in giving a building a started code, and thanks to GPT for helping me out in this.
+Thank you upGrad for the Modules, which helped in giving a building a started code, and thanks to GPT for helping me out in this.
 
