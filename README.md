@@ -53,5 +53,5 @@ Several challenges were encountered during the implementation process, including
 Upon comparison of the search query outcomes from both the search and generation layers, it becomes apparent that the generation layer produces more detailed and comprehensible results. While the search layer efficiently retrieves relevant information, the generation layer significantly enhances output quality and readability, making it a preferred choice for tasks requiring detailed and user-friendly responses.
 
 ## Acknowledgment:
-Thank you upGrad for the Modules, which helped in giving a building a started code, and thanks to GPT for helping me out in this.
+Thank you upGrad for the Modules, which helped in giving a building a started code, and also thankful to GPT.
 
